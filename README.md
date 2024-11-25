@@ -1,2 +1,3 @@
-# drought_index
+# README 
 A project to practice project organizing 
+
